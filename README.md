@@ -1,63 +1,94 @@
-<h1 align="center">Hi 👋, I'm Safalya Deb Biswas</h1>
-<h3 align="center">Diploma CST Student | Aspiring Full-Stack Web Developer | Digital Creator</h3>
+# Hi 👋, I’m Safalya Deb Biswas
 
-<p align="center">
-  <a href="https://github.com/safalyadeb">
-    <img src="https://komarev.com/ghpvc/?username=safalyadeb&label=Profile%20views&color=6C63FF&style=flat" alt="Profile views" />
-  </a>
-</p>
+**Diploma CST Student | Aspiring Full-Stack Developer | Web Development & UI/UX Design**
 
-👨‍💻 About Me
-- 🎓 I'm a Diploma student in Computer Science & Technology at JIS School of Polytechnic.
-- 🌱 I'm currently learning full-stack web development, including backend development.
-- 💻 I enjoy building responsive websites and practical web applications.
-- 🎨 I’m also interested in UI design and digital creativity.
-- 📍 Based in Kalyani, West Bengal, India.
-- 🎯 My goal is to keep improving by building projects and learning through practice.
-🛠️ Technologies & Tools
-Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js" alt="HTML, CSS, JavaScript" />
-</p>
+## 💻 Work
+- 💻 I’m currently learning full-stack web development.
+- 🌱 I’m learning backend development with Node.js and Express.
+- 🚀 I’m building real-world projects to improve my development skills.
+- 🎨 I’m interested in web development, UI/UX design, and creative technology.
+- 🎯 My goal is to become a skilled full-stack developer and build impactful solutions.
 
-Frontend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=react" alt="React" />
-</p>
+## 🛠️ Skills
 
-Backend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Node.js and Express" />
-</p>
+**Programming Languages**
+- JavaScript
+- HTML5
+- CSS3
 
-Tools & Design
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,ps,ai" alt="Git, GitHub, VS Code, Figma, Photoshop, Illustrator" />
-</p>
+**Frontend Development**
+- React
+- HTML5
+- CSS3
+- Tailwind CSS
+- Bootstrap
 
-This list reflects the technologies and tools I’m learning or using. I’ll expand it as I gain more hands-on experience.
+**Backend Development**
+- Node.js
+- Express.js
+- REST APIs
 
-🚀 Featured Projects
-- Personal Portfolio — A portfolio website presenting my skills, projects, and developer journey.
-- Smart Calculator Suite — A practice project focused on useful calculator features.
-- Weather Dashboard — A weather interface project for exploring API integration and displaying weather information.
-- Mini E-Commerce Store — A learning project exploring product listings and shopping UI.
-Add each project's repository and live-demo links here once they are published.
+**Database**
+- MongoDB
+- MySQL
 
-📊 GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=safalyadeb&show_icons=true&theme=tokyonight&hide_border=true" alt="Safalya's GitHub stats" />
-</p>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=safalyadeb&layout=compact&theme=tokyonight&hide_border=true" alt="Most-used languages" />
-</p>
+**Tools**
+- Git
+- GitHub
+- VS Code
+- Postman
+- Figma
 
-🤝 Connect With Me
-- GitHub: @safalyadeb
-- LinkedIn: Safalya Deb Biswas
-<p align="center">
-  <i>“Learning step by step. Building project by project.”</i>
-</p>
+**Software / Design**
+- Figma
+- Adobe Photoshop
+- Adobe Illustrator
+
+**Currently Learning**
+- Node.js
+- Express.js
+- MongoDB
+
+**Interested In**
+- Full-Stack Development
+- UI/UX Design
+- Problem Solving
+
+**Soft Skills**
+- Problem Solving
+- Time Management
+- Teamwork
+- Communication
+- Creativity
+
+## 🌐 Social
+
+- **GitHub:** https://github.com/safalyadeb
+- **LinkedIn:** https://www.linkedin.com/in/safalya-deb-biswas/
+- **X (Twitter):** https://x.com/Safalya_Deb
+- **Instagram:** https://www.instagram.com/puffing_pixels_/
+- **YouTube:** https://www.youtube.com/@TheCrazyBong
+- **CodePen:** https://codepen.io/safalyadeb
+- **LeetCode:** https://leetcode.com/@safalyadeb
+- **HackerRank:** https://www.hackerrank.com/safalyadeb
+- **Dev.to:** https://dev.to/safalyadeb
+- **Email:** safalyadeb9@gmail.com
+
+## 📊 GitHub Stats
+
+- Display visitors count badge
+- Display GitHub profile stats card
+- Display top skills
+- Display GitHub streak stats
+- Display GitHub trophy
+
+## ✨ Fun Fact
+
+I enjoy turning creative ideas into websites—and adding a little humor along the way.
+
+## 💭 Motto
+
+*Building with purpose. Learning continuously. Improving with every project.*
 <!--
 **safalyadeb/safalyadeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
