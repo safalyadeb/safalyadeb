@@ -1,4 +1,3 @@
-## Hi there 👋
 <h1 align="center">Hi 👋, I'm Safalya Deb Biswas</h1>
 <h3 align="center">Diploma CST Student | Aspiring Full-Stack Web Developer | Digital Creator</h3>
 
